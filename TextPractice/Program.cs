@@ -6,6 +6,9 @@ using TextPractice.Interfaces;
 
 namespace TextPractice
 {
+    /// <summary>
+    /// 
+    /// </summary>
     class Program
     {
         static Type ExecuteType = typeof(IStringExecute);
